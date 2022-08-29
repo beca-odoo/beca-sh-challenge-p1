@@ -1,1 +1,1 @@
-# quadgram-sh-challenge-p1
+# beca-sh-challenge-p1
